@@ -1,0 +1,18 @@
+@media (max-width: 1000px) {
+    .header {
+        height: auto;
+        padding: 10px;
+    }
+
+    /* .header-menu{
+        width: 150px;
+    } */
+
+    .header-title{
+        font-size: 30px;
+    }
+
+    table{
+        width: 100%;
+    }
+}
