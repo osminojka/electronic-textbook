@@ -75,6 +75,7 @@ font::selection {
 .header-title {
 	color: white;
 	font-size: 35px;
+	text-align: right;
 }
 
 /* MENU STYLES ============================================*/
@@ -213,6 +214,6 @@ font::selection {
     background: url(../pics/logo.jpeg);
     background-size: 100%;
     background-repeat: no-repeat;
-	z-index: 69;
+	z-index: 10;
 }
 
