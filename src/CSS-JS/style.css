@@ -54,6 +54,7 @@ font::selection {
 	width: 100px;
 	height: 70px;
 	margin: 15px;
+	margin-left: 30px;
 	/* border: 2px solid white; */
 	border-radius: 10px;
 	background: url(../pics/menu.jpg);
@@ -107,6 +108,7 @@ font::selection {
 .menu-title {
 	font-size: 25px;
 	color: white;
+	font-weight: bold;
 }
 
 .menu-exit {
@@ -178,6 +180,7 @@ font::selection {
 .menu-content a{
 	color: white;
 	text-decoration: none;
+	font-weight: bold;
 }
 
 /* MENU STYLES ============================================*/
@@ -206,14 +209,14 @@ font::selection {
 }
 /* FOOTER STYLES ==========================================*/
 .footer-logo {
-    width: 150px;
-    height: 124px;
+    width: 120px;
+    height: 9vh;
     position: fixed;
-	top: 100px;
-    right: 0;
-    background: url(../pics/logo.jpeg);
+	top: 0px;
+    left: 0;
+    background: url(../pics/logo.png);
     background-size: 100%;
     background-repeat: no-repeat;
-	z-index: 10;
+	z-index: 20;
 }
 
