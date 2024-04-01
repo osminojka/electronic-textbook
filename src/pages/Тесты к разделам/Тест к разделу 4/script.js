@@ -3,11 +3,11 @@ let score = 0;
 function ZaMirZaKiev () {
     score = 0;
 
-    if (document.getElementById('1-С').checked) score++
+    if (document.getElementById('1-B').checked) score++
     if (document.getElementById('2-A').checked) score++
-    if (document.getElementById('3-A').checked) score++
-    if (document.getElementById('4-A').checked) score++
-    if (document.getElementById('5-A').checked) score++
+    if (document.getElementById('3-B').checked) score++
+    if (document.getElementById('4-C').checked) score++
+    if (document.getElementById('5-B').checked) score++
     if (document.getElementById('6-A').checked) score++
     if (document.getElementById('7-A').checked) score++
     if (document.getElementById('8-A').checked) score++
