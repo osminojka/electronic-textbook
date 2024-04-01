@@ -27,6 +27,6 @@ function ZaMirZaKiev () {
 
     console.log(score);
 
-    return `Правильных ответов - ${score};\nНеправильных ответов - ${17 - score}.`
+    return `Правильных ответов - ${score};\nНеправильных ответов - ${21 - score}.`
     
 }
