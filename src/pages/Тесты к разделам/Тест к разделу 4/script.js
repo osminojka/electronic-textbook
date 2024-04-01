@@ -1,6 +1,6 @@
 let score = 0;
 
-function ZaMirZaKiev () {
+function ZaMirZaKiev() {
     score = 0;
 
     if (document.getElementById('1-B').checked) score++
@@ -8,17 +8,18 @@ function ZaMirZaKiev () {
     if (document.getElementById('3-B').checked) score++
     if (document.getElementById('4-C').checked) score++
     if (document.getElementById('5-B').checked) score++
-    if (document.getElementById('6-A').checked) score++
-    if (document.getElementById('7-A').checked) score++
-    if (document.getElementById('8-A').checked) score++
-    if (document.getElementById('9-A').checked) score++
-    if (document.getElementById('10-A').checked) score++
-    if (document.getElementById('11-A').checked) score++
-    if (document.getElementById('12-A').checked) score++
-    if (document.getElementById('13-A').checked) score++
-    if (document.getElementById('14-A').checked) score++
-    if (document.getElementById('15-A').checked) score++
-    if (document.getElementById('16-A').checked) score++
+    if (document.getElementById('6-B').checked) score++
+    if (document.getElementById('7-C').checked) score++
+    if (document.getElementById('8-B').checked) score++
+    if (document.getElementById('9-D').checked) score++
+    if (document.getElementById('10-B').checked) score++
+    if (document.getElementById('11-AB').checked) score++
+    if (document.getElementById('11-BD').checked) score++
+    if (document.getElementById('11-CC').checked) score++
+    if (document.getElementById('11-DA').checked) score++
+    if (document.getElementById('12-D').checked) score++
+    if (document.getElementById('13-E').checked) score++
+
 
     console.log(score);
 
