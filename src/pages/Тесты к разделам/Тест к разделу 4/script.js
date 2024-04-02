@@ -18,7 +18,9 @@ function ZaMirZaKiev() {
     if (document.getElementById('11-CC').checked) score++
     if (document.getElementById('11-DA').checked) score++
     if (document.getElementById('12-D').checked) score++
+    if (document.getElementById('13-C').checked) score++
     if (document.getElementById('13-E').checked) score++
+    if (document.getElementById('14-E').checked) score++
 
 
     console.log(score);
